@@ -1,3 +1,4 @@
+new text line
 file_3 line 1
 file_3 line 2
 file_3 line 3
