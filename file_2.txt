@@ -1,3 +1,4 @@
+new text inserted
 file2 - step3.1
 file2 - step2.2
 file2 - step3.3
